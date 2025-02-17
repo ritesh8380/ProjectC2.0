@@ -1,2 +1,2 @@
 # ProjectC2.0
-Intermidiate tohigh level  of c programming project 
+Intermidiate to high level  of c programming project 
