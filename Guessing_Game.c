@@ -111,7 +111,7 @@ do{
 printf("your %d%s attempt is your successful attempt\n",attempts,string3);
 printf("Rating : %s\n",string2);
 printf("Developer : Ritesh Sharma (India)\n");
-printf("Thanks for your Love Dear ! Visit again.\n");
+printf("Thanks for your contribution Good BYE ! Visit again.\n");
 printf("\n");
 return 0;
 }
